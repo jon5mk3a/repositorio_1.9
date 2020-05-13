@@ -1,0 +1,2 @@
+esto es un repositorio git.
+contara con un .gitignore
